@@ -1,0 +1,3 @@
+ArrayDeque and queue linked list both implementation  is same but internal working process is diffrence
+arraylist will excute faster than linkedlist
+linkedlist implementing from 2 interfaces they are queue and list
